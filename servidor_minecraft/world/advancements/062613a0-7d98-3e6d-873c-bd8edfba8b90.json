@@ -33,12 +33,20 @@
     "criteria": {
       "shrubland": "2025-01-05 02:33:52 +0000",
       "rocky_shrubland": "2025-01-05 02:37:26 +0000",
+      "scrubland": "2025-01-05 02:48:54 +0000",
+      "bayou": "2025-01-05 02:48:42 +0000",
       "floodplain": "2025-01-05 01:34:34 +0000",
+      "highland": "2025-01-05 02:47:05 +0000",
+      "marsh": "2025-01-05 02:46:39 +0000",
+      "wetland": "2025-01-05 02:49:45 +0000",
       "moor": "2025-01-05 02:35:26 +0000",
+      "coniferous_forest": "2025-01-05 02:49:56 +0000",
       "spider_nest": "2025-01-05 02:35:28 +0000",
       "rocky_rainforest": "2025-01-05 01:33:36 +0000",
+      "pasture": "2025-01-05 02:46:43 +0000",
       "volcanic_plains": "2025-01-05 01:35:20 +0000",
       "grassland": "2025-01-05 02:33:27 +0000",
+      "prairie": "2025-01-05 02:47:16 +0000",
       "rainforest": "2025-01-05 01:34:35 +0000"
     },
     "done": false
@@ -63,8 +71,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-01-05 02:47:18 +0000",
+      "minecraft:mangrove_swamp": "2025-01-05 02:48:52 +0000",
       "minecraft:river": "2025-01-05 02:33:50 +0000",
-      "minecraft:jungle": "2025-01-05 01:35:23 +0000"
+      "minecraft:jungle": "2025-01-05 01:35:23 +0000",
+      "minecraft:windswept_savanna": "2025-01-05 02:49:12 +0000",
+      "minecraft:savanna": "2025-01-05 02:49:02 +0000",
+      "minecraft:plains": "2025-01-05 02:47:17 +0000"
     },
     "done": false
   },
