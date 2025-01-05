@@ -1,0 +1,81 @@
+{
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-01-05 01:33:34 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2025-01-05 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-01-05 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "cnc:cnc": {
+    "criteria": {
+      "cnc_0": "2025-01-05 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-05 01:33:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-01-05 02:33:52 +0000",
+      "floodplain": "2025-01-05 01:34:34 +0000",
+      "rocky_rainforest": "2025-01-05 01:33:36 +0000",
+      "volcanic_plains": "2025-01-05 01:35:20 +0000",
+      "grassland": "2025-01-05 02:33:27 +0000",
+      "rainforest": "2025-01-05 01:34:35 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-05 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_rainforest": "2025-01-05 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "cnc:gooseadvancement": {
+    "criteria": {
+      "gooseadvancement_0": "2025-01-05 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-01-05 02:33:50 +0000",
+      "minecraft:jungle": "2025-01-05 01:35:23 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:devillhunter": {
+    "criteria": {
+      "devillhunter_0": "2025-01-05 01:38:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mysterious_worm": {
+    "criteria": {
+      "mysterious_worm": "2025-01-05 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
