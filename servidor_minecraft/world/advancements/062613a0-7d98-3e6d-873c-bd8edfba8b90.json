@@ -32,7 +32,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-01-05 02:33:52 +0000",
+      "rocky_shrubland": "2025-01-05 02:37:26 +0000",
       "floodplain": "2025-01-05 01:34:34 +0000",
+      "moor": "2025-01-05 02:35:26 +0000",
+      "spider_nest": "2025-01-05 02:35:28 +0000",
       "rocky_rainforest": "2025-01-05 01:33:36 +0000",
       "volcanic_plains": "2025-01-05 01:35:20 +0000",
       "grassland": "2025-01-05 02:33:27 +0000",
@@ -74,6 +77,24 @@
   "alexsmobs:alexsmobs/mysterious_worm": {
     "criteria": {
       "mysterious_worm": "2025-01-05 01:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-05 02:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-05 02:43:49 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/siren": {
+    "criteria": {
+      "kill": "2025-01-05 02:43:06 +0000"
     },
     "done": true
   },
